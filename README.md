@@ -22,7 +22,7 @@ Here's what we need to be able to do.
 
 **Lifter**
 
-  - Get a list of all lifters
+  - Get a list of all lifters #done
 
   - Get a list of all the memberships that a specific lifter has
 
@@ -40,12 +40,12 @@ Here's what we need to be able to do.
 
 **Gym**
 
-  - Get a list of all gyms
+  - Get a list of all gyms #done
 
-  - Get a list of all memberships at a specific gym
+  - Get a list of all memberships at a specific gym #done
 
-  - Get a list of all the lifters that have a membership to a specific gym
+  - Get a list of all the lifters that have a membership to a specific gym #done
 
-  - Get a list of the names of all lifters that have a membership to that gym
+  - Get a list of the names of all lifters that have a membership to that gym #done
 
-  - Get the combined lift total of every lifter has a membership to that gym
+  - Get the combined lift total of every lifter has a membership to that gym #done
